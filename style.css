@@ -142,3 +142,25 @@ color:#d63384;
 font-weight:bold;
 margin-bottom:15px;
 }
+.hero-image img{
+    width:100%;
+    max-width:300px;
+    height:auto;
+    object-fit:contain;
+}
+
+@media(max-width:768px){
+    .hero{
+        min-height:auto;
+        padding:60px 20px;
+    }
+
+    .overlay{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .hero-image img{
+        max-width:260px;
+    }
+}
