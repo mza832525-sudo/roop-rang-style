@@ -18,7 +18,7 @@ body{
 
 .hero{
     min-height:100vh;
-    background: url("images/Bg.jpg") center/cover no-repeat;
+    background: linear-gradient(135deg,#fff7fb,#ffe6f0,#fff);;
     display:flex;
     align-items:center;
     justify-content:center;
