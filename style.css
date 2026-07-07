@@ -175,8 +175,8 @@ footer{
 }
 
 .brand-logo{
-  width:70px;
-  height:70px;
+  width:80px;
+  height:80px;
   object-fit:contain;
   display:block;
   margin:0 auto 10px;
@@ -206,7 +206,7 @@ footer{
 
 .hero-card img{
     width:100%;
-    max-width:480px;
+    max-width:520px;
     height:auto;
     display:block;
     margin:0 auto;
