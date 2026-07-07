@@ -200,3 +200,11 @@ footer{
   display:block;
   margin:0 auto 18px;
 }
+
+.hero-card img{
+    width:100%;
+    max-width:420px;
+    height:auto;
+    display:block;
+    margin:0 auto;
+}
