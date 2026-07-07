@@ -196,9 +196,9 @@ footer{
 }
     
 .brand-logo{
-  width:90px !important;
-  height:90px !important;
-  max-width:90px !important;
+  width:100px !important;
+  height:100px !important;
+  max-width:100px !important;
   object-fit:contain;
   display:block;
   margin:0 auto 18px;
