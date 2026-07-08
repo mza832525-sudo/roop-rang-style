@@ -391,3 +391,30 @@ footer{
   font-size:12px !important;
   color:#777 !important;
 }
+.footer-social img{
+  width:32px !important;
+  height:32px !important;
+  max-width:32px !important;
+  max-height:32px !important;
+  object-fit:contain !important;
+}
+
+.footer-social a{
+  display:inline-flex !important;
+  align-items:center !important;
+  gap:8px !important;
+  text-decoration:none !important;
+  color:#B76E79 !important;
+}
+
+.footer{
+  text-align:center !important;
+  padding:25px 20px 35px !important;
+  margin-top:40px !important;
+}
+
+.footer p{
+  font-size:12px !important;
+  color:#777 !important;
+  margin-top:8px !important;
+}
