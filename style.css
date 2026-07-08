@@ -236,8 +236,9 @@ footer{
 }
 
 .footer-social img{
-    width: 5px;
-    height: 5px;
+    width:24px;
+    height:24px;
+    object-fit:contain;
 }
 
 .footer p{
