@@ -317,3 +317,47 @@ footer{
 .footer{
   margin-top:30px !important;
 }
+/* ===== HOME PAGE FINAL POLISH ===== */
+
+.hero{
+  padding-top:25px !important;
+}
+
+.brand-logo{
+  width:85px !important;
+  height:85px !important;
+  max-width:85px !important;
+  margin-bottom:12px !important;
+}
+
+.hero-card{
+  padding:25px !important;
+  max-width:950px;
+  margin:0 auto 30px;
+}
+
+.hero-card img{
+  width:100%;
+  max-width:520px !important;
+  height:auto;
+  display:block;
+  margin:0 auto;
+  filter:drop-shadow(0 15px 28px rgba(0,0,0,.12));
+}
+
+.main-btn{
+  box-shadow:0 12px 28px rgba(212,175,55,.35);
+  transition:.3s ease;
+}
+
+.look-card{
+  min-height:80px;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  box-shadow:0 15px 35px rgba(0,0,0,.08);
+}
+
+.footer{
+  margin-top:40px !important;
+}
