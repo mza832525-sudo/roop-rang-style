@@ -278,3 +278,26 @@ footer{
   font-size:14px;
   color:#777;
 }
+    .footer-social a img{
+  width:32px !important;
+  height:32px !important;
+  max-width:32px !important;
+  max-height:32px !important;
+  display:inline-block !important;
+  object-fit:contain !important;
+}
+
+.footer-social a{
+  display:inline-flex !important;
+  align-items:center !important;
+  justify-content:center !important;
+  gap:8px !important;
+}
+
+.footer-social{
+  text-align:center !important;
+}
+
+.footer{
+  text-align:center !important;
+}
