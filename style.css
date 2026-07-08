@@ -359,3 +359,35 @@ footer{
 .footer{
   margin-top:40px !important;
 }
+.footer{
+  margin-top:45px !important;
+  padding:25px 20px 35px !important;
+  text-align:center !important;
+}
+
+.footer-social{
+  margin-bottom:8px !important;
+}
+
+.footer-social a{
+  display:inline-flex !important;
+  align-items:center !important;
+  justify-content:center !important;
+  gap:8px !important;
+  color:#B76E79 !important;
+  text-decoration:none !important;
+  font-size:15px !important;
+  font-weight:600 !important;
+}
+
+.footer-social img{
+  width:26px !important;
+  height:26px !important;
+  max-width:26px !important;
+}
+
+.footer p{
+  margin-top:6px !important;
+  font-size:12px !important;
+  color:#777 !important;
+}
