@@ -418,3 +418,12 @@ footer{
   color:#777 !important;
   margin-top:8px !important;
 }
+.footer-social a{
+  font-size:14px !important;
+  font-weight:700 !important;
+}
+
+.footer-social img{
+  width:22px !important;
+  height:22px !important;
+}
